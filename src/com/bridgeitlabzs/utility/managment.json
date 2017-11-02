@@ -1,0 +1,14 @@
+{ 
+  "rice":[
+	   {"propertyname":"ussa","price" :45 ,"weight" :8}
+          ,{"propertyname":"us","price" :245 ,"weight" :2}
+	 ],
+  "wheate":[
+            {"propertyname":"gw","price" :45 ,"weight" :8}
+           ,{"propertyname":"logone","price" :15 ,"weight" :9}
+           ],	
+  "pulse":[
+            {"propertyname":"tuar","price" :50 ,"weight" :5}
+           ,{"propertyname":"gram","price" :40 ,"weight" :10}
+          ]
+}
